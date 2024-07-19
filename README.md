@@ -2,7 +2,7 @@
 
 ![cover](.assets/../assets/nancy.jpg)
 
-View Demo <a href="https://nancysmithphoto.netlify.app/" target="_blank">Nancy Smith Photo</a> 
+View Demo <a href="" target="_blank">Nancy Smith Photo</a> 
 
 ## 🦉 Main information
 
